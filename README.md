@@ -1,24 +1,321 @@
-<div align="center"><a target="_blank" href="https://tinyhref.com"><img src="https://i.imgur.com/cY13Vvb.png" height="128" alt="tinyhref"/></a></div>
-<h1 align="center"><a target="_blank" href="https://tinyhref.com">500link</a> - Tool</h1>
-<p align="center">Introducing new products, find inspiration and new ideas</p>
+<!DOCTYPE html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALquDFETXRn0Hr05fUP7EJT77xYnPmRbpMy4vk8KYiHnkNpednjOANJcaXDXcKQJN0nXKZJL7TciJD8AoHXK158CAwEAAQ==_XTcc5ATDOipAGHQ1t0P7u7v4jWRbRnHcEx0IkGxR44OAfAsCvQiWj0G7IpDd5Xj+xMgXYJFiidtk+fpGVYjrQA==" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <title>tinyhref.com</title>
+    <style media="screen">
+.asset_star0 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star0.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
 
-<div align="center"><a target="_blank" href="https://tinyhref.com/submit"><img src="https://img.shields.io/badge/Submit-c32769.svg?style=flat" alt="submit"/></a>
-<a target="_blank" href="https://x.com/intent/follow?screen_name=tinyhref"><img src="https://img.shields.io/twitter/follow/tinyhref" alt="submit"/></a></div>
+.asset_star1 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star1.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
 
-<img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
+.asset_starH {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/starH.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
 
-<div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
-<div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
-<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
-<div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://tinyhref.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
-<div><img width="16" src="https://i.imgur.com/4TyovfU.png" alt="Appwrite"/> <a target="_blank" href="https://tinyhref.com/appwrite">Appwrite</a> - Build like a team of hundreds.</div>
-<div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://tinyhref.com/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
-<div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://tinyhref.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
-<div><img width="16" src="https://i.imgur.com/8HZN9bD.png" alt="Rspeedy"/> <a target="_blank" href="https://tinyhref.com/rspeedy">Rspeedy</a> - The Build Tool for Lynx.</div>
-<div><img width="16" src="https://i.imgur.com/bSzj8jI.png" alt="Lucide"/> <a target="_blank" href="https://tinyhref.com/lucide">Lucide</a> - Beautiful &amp; consistent icon toolkit made by the community.</div>
-<div><img width="16" src="https://i.imgur.com/YU7Z25D.png" alt="Vite"/> <a target="_blank" href="https://tinyhref.com/vite">Vite</a> - Next Generation Frontend Tooling.</div>
-<div><img width="16" src="https://i.imgur.com/u8m14nY.png" alt="Chatwith"/> <a target="_blank" href="https://tinyhref.com/chatwith">Chatwith</a> - Custom ChatGPT chatbot with your website &amp; files.</div>
-<div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://tinyhref.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
-<div><img width="16" src="https://i.imgur.com/ccSc5TM.png" alt="ShipFast"/> <a target="_blank" href="https://tinyhref.com/shipfast">ShipFast</a> - Launch Your Startup in Days, Not Weeks.</div>
-<div><img width="16" src="https://i.imgur.com/Ct2G0eR.jpeg" alt="IndieBoosting"/> <a target="_blank" href="https://tinyhref.com/indieboosting">IndieBoosting</a> - Indie makers unite: feature, support, succeed.</div>
-<div><img width="16" src="https://i.imgur.com/BU156hf.gif" alt="Diaflow.io"/> <a target="_blank" href="https://tinyhref.com/diaflow">Diaflow.io</a> - Be the hero of your company with powerful automation &amp; apps.</div>
+.sitelink {
+	padding-right: 16px;
+}
+
+.sellerRatings a:link,
+.sellerRatings a:visited,
+.sellerRatings a:hover,
+.sellerRatings a:active {
+	text-decoration: none;
+	cursor: text;
+}
+
+.sellerRatings {
+	margin:0 0 3px 20px;
+}
+
+.sitelinkHolder {
+	margin:-15px 0 15px 35px;
+}
+
+#ajaxloaderHolder {
+	display: block;
+	width: 24px;
+	height: 24px;
+	background: #fff;
+	padding: 8px 0 0 8px;
+	margin:10px auto;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}</style>    <style media="screen">
+* {
+    margin:0;padding:0
+}
+
+body {
+    background:#101c36;
+    font-family: sans-serif;
+    text-align: center;
+    font-size:1rem;
+}
+
+.header {
+    padding:1rem 1rem 0;
+    overflow:hidden;
+}
+
+h1 {
+    color:#848484;
+    font-size:1.5rem;
+}
+
+.header-text-color:visited,
+.header-text-color:link,
+.header-text-color {
+    color:#848484;
+}
+
+.comp-is-parked {
+  margin: 4px 0 2px;
+}
+
+.comp-sponsored {
+  text-align: left;
+  margin: 0 0 -1.8rem 4px;
+}
+
+.wrapper1 {
+    margin:1rem;
+}
+
+.wrapper2 {
+    background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/bottom.png') no-repeat center bottom;
+    padding-bottom:140px;
+}
+
+.wrapper3 {
+    background:#fff;
+    max-width:300px;
+    margin:0 auto 1rem;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
+.onDesktop {
+    display:none;
+}
+
+.tcHolder {
+    padding-top: 2rem;
+}
+
+.adsHolder {
+    margin: 1rem 0;
+    padding-top: 2rem;
+    overflow:hidden;
+}
+
+.footer {
+    color:#626574;
+    padding:2rem 1rem;
+    font-size:.8rem;
+    margin:0 auto;
+    max-width:440px;
+}
+
+.footer a:link,
+.footer a:visited {
+    color:#626574;
+}
+
+.sale_link_bold a,
+.sale_link,
+.sale_link a {
+    color:#626574 !important;
+}
+
+.searchHolder {
+    padding:1px 0 1px 1px;
+    margin:1rem auto;
+    width: 95%;
+    max-width: 500px;
+}
+
+@media screen and (min-width:600px) {
+
+    .comp-is-parked,
+    .comp-sponsored {
+      color: #848484;
+    }
+
+    .comp-sponsored {
+      margin-left: 0;
+    }
+
+    .wrapper1 {
+        max-width:1500px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+    .wrapper2 {
+        background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/arrows.png') no-repeat center top;
+        padding-bottom:0;
+        min-height:600px;
+    }
+
+    .wrapper3 {
+        max-width:530px;
+        background:none;
+    }
+}
+</style>    <style media="screen">
+.fallback-term-holder {
+    display: inline-grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.fallback-term-link {
+    grid-column: 1 / span 1; align-self: center;
+    padding: 50px 13px 50px 13px; border-radius: 25px;
+    border: 5px solid #ffffff; margin-bottom: 20px;
+    background-color: rgb(17, 38, 77);
+    text-decoration-line: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: left;
+}
+
+.fallback-arrow {
+    float: right;
+    width: 24px;
+    height: 24px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyBmaWxsPScjRDdEN0Q3JyBzdHlsZT0iZmxvYXQ6IHJpZ2h0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTUuODggNC4xMkwxMy43NiAxMmwtNy44OCA3Ljg4TDggMjJsMTAtMTBMOCAyeiIvPjwvc3ZnPg==');
+}</style>
+    
+    </head>
+
+<body id="afd">
+
+<div class="wrapper1">
+        <div class="wrapper2">
+        <div class="wrapper3">
+            <br/>
+        <script async src="https://euob.youseasky.com/sxp/i/224f85302aa2b6ec30aac9a85da2cbf9.js" data-ch="AdsDeli - domain - landingpage" data-uvid="d73ada6f2499f82456245dfce55675567f6e66b5" class="ct_clicktrue_80705" data-jsonp="onCheqResponse"></script>
+    <noscript>
+        <iframe src="https://obseu.youseasky.com/ns/224f85302aa2b6ec30aac9a85da2cbf9.html?ch=AdsDeli%20-%20domain%20-%20landingpage"
+                width="0" height="0" style="display:none"></iframe>
+    </noscript>
+<br/>
+<div class="header" id="domainname">
+        <h1>tinyhref.com</h1>
+    </div>
+                        <div class="tcHolder">
+                <div id="tc"></div>
+            </div>
+        </div>
+    </div>
+            <div class="footer">
+            2025 Copyright | All Rights Reserved.
+<br/><br/>
+<a href="javascript:void(0);" onClick="window.open('/privacy.html', 'privacy-policy', 'width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no').focus()" class="privacy-policy">
+    Privacy Policy
+</a>
+<br/><br/>
+<br/><br/>
+    </div>
+</div>
+
+<script type="text/javascript" language="JavaScript">
+    var tcblock = {
+        // Required and steady
+        'container': 'tc',
+        'type': 'relatedsearch',
+        'colorBackground': 'transparent',
+        
+        'number': 3,
+        
+        // Font-Sizes and Line-Heights
+        'fontSizeAttribution': 14,
+        'fontSizeTitle': 24,
+        'lineHeightTitle': 34,
+        // Colors
+        'colorAttribution': '#aaa',
+        'colorTitleLink': '#0277bd',
+        // Alphabetically
+        'horizontalAlignment': 'center',
+        'noTitleUnderline': false,
+        'rolloverLinkColor': '#01579b',
+        'verticalSpacing': 10
+    };
+    var searchboxBlock = {
+        'container': 'search',
+        'type': 'searchbox',
+        'fontSizeSearchInput': 12,
+        'hideSearchInputBorder': false,
+        'hideSearchButtonBorder': true,
+        'fontSizeSearchButton': 13,
+        'colorBackground': 'transparent',
+        'colorSearchButton': '#0b3279',
+        'colorSearchButtonText': '#fff'
+    };
+    </script>
+<script type="text/javascript">let isAdult=false;         let containerNames=[];         let uniqueTrackingID='MTc1ODc1NTc4Ny42NjI1OjExMWEyYjBhMjBhYmEzYjM0M2VkODI4ZWM5ZWUyOWQ2YTE5MTU5YWZiYjA4MjlkNWRlMzJmZjk2YTI1MzYzYjk6NjhkNDdiY2JhMWJlMg==';         let search='';         let themedata='eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.oYumWRKECBQVSpEnd2htvivASKs4eb9zuQmDhWno6j9LR9J6iulB5Q.tvIup1en45LUcK4eEoUwwg.XI_llmBxE8S6LNQj9B0maibS2zBfVvNtCGgqYx_0ZHHO7Z3Slg9tBhN8ESoXnAJfdaA8Phf2j-6F5KAdB_9qtgTs3CFa3rkrrl8bLM-R8pNklhEknuEnnH8ET3wvY-snebip4x3hQxz8S-97Ms3CmQ4itdRqpDjd2cw8UKgYbTN6kwy5la46z6Re5R9_jmDyYRivoLJu_d2akXgClYAnnCQuvAgMxzho6XzqS5PTAtXasTPUwIB5EfSYKF2DUnKiZ0SU7xMAzNbw1UwES5iFxbVchufmorKJ3bFPa3rEQhctHBHj_NIt55mQITVBR1DieRYRD4T32dnBg0SLTlLwZzBNREeyJr31leRA1JpwxJJ6fUe7_GNpUiF-TKfxEgrMOKrxdTPjxJcWEOGHbFqTAopwxRyDiTtvgoVY3mnzoPYgbkQzOm-zTu-dwuimFL0YxI1VMOUg-Jb_rvbMngikEZIgT0CEK7DDVLRbJOgTHd-YvBCj_2PVD3iW28-6l-XGtQ-5-GZgqIJkpVR2G6vnDo_qcXJ8uGpTyHBFDaxtFdpJZt2pCtrMGoyQvPqJwrziMNfUrVsMOWppy3dZ3x-sU1M7bav360scAWhLGGY0KIA.DWrB2qRKZRntGS__-iO_tg';         let domain='tinyhref.com';         let scriptPath='';         let adtest='off';if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=OWU4NWVhZjIzNWEyZjY1MmQ1MGE3YmMyODgzOWVjNWVlNjIyZTM2ZCw2OGQ0N2JjYmE4MDBk'; }let pageLoadedCallbackTriggered = false;let fallbackTriggered = false;let formerCalledArguments = false;let pageOptions = {'pubId': 'dp-teaminternet01','resultsPageBaseUrl': '//' + location.host + '/?ts=','fontFamily': 'arial','optimizeTerms': true,'maxTermLength': 40,'adtest': true,'clicktrackUrl': '//' + location.host + '/munin/a/tr/click?','attributionText': 'Ads','colorAttribution': '#b7b7b7','fontSizeAttribution': 16,'attributionBold': false,'rolloverLinkBold': false,'fontFamilyAttribution': 'arial','adLoadedCallback': function(containerName, adsLoaded, isExperimentVariant, callbackOptions) {let data = {containerName: containerName,adsLoaded: adsLoaded,isExperimentVariant: isExperimentVariant,callbackOptions: callbackOptions,terms: pageOptions.terms};if (!adsLoaded || (containerName in containerNames)) {ajaxQuery(scriptPath + "/munin/a/tr/adloaded"+ "?toggle=adloaded"+ "&uid=" + encodeURIComponent(uniqueTrackingID)+ "&domain=" + encodeURIComponent(domain)+ "&data=" + encodeURIComponent(JSON.stringify(data)));}},'pageLoadedCallback': function (requestAccepted, status) {document.body.style.visibility = 'visible';pageLoadedCallbackTriggered = true;if ((status.faillisted === true || status.faillisted == "true" || status.blocked === true || status.blocked == "true" ) && status.error_code != 25) {ajaxQuery(scriptPath + "/munin/a/tr/block?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=block&reason=other&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.errorcode && !status.error_code) {status.error_code = status.errorcode;}if (status.error_code) {ajaxQuery(scriptPath + "/munin/a/tr/errorcode?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=errorcode&code=" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));if ([18, 19].indexOf(parseInt(status.error_code)) != -1 && fallbackTriggered == false) {fallbackTriggered = true;if (typeof loadFeed === "function") {window.location.href = '//' + location.host;}}if (status.error_code == 20) {window.location.replace("//dp.g.doubleclick.net/apps/domainpark/domainpark.cgi?client=" + encodeURIComponent((pageOptions.pubid.match(/^ca-/i) ? "" : "ca-") + pageOptions.pubid) + "&domain_name=" + encodeURIComponent(domain) + "&output=html&drid=" + encodeURIComponent(pageOptions.domainRegistrant));}}if (status.needsreview === true || status.needsreview == "true") {ajaxQuery(scriptPath + "/munin/a/tr/needsreview?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=needsreview&uid=" + encodeURIComponent(uniqueTrackingID));}if ((status.adult === true || status.adult == "true") && !isAdult) {ajaxQuery(scriptPath + "/munin/a/tr/adult?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=adult&uid=" + encodeURIComponent(uniqueTrackingID));} else if ((status.adult === false || status.adult == "false") && isAdult) {ajaxQuery(scriptPath + "/munin/a/tr/nonadult?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=nonadult&uid=" + encodeURIComponent(uniqueTrackingID));}if (requestAccepted) {if (status.feed) {ajaxQuery(scriptPath + "/munin/a/tr/feed?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=feed&feed=" + encodeURIComponent(status.feed) + "&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.error_code) {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/error?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=error_" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));} else {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/yes?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=yes&uid=" + encodeURIComponent(uniqueTrackingID));}} else {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/reject?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=rejected&uid=" + encodeURIComponent(uniqueTrackingID));}}};let x = function (obj1, obj2) {if (typeof obj1 != "object")obj1 = {};for (let key in obj2)obj1[key] = obj2[key];return obj1;};function getXMLhttp() {let xmlHttp = null;try {xmlHttp = new XMLHttpRequest();} catch (e) {try {xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");} catch (ex) {try {xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");} catch (exc) {}}}return xmlHttp;}function ajaxQuery(url) {if (adtest == 'on') return false;xmlHttp = getXMLhttp();if (!xmlHttp) return ajaxBackfill(url);xmlHttp.open("GET", url, false);return xmlHttp.send(null);}function ajaxBackfill(url) {if (adtest == 'on') return false;if (url.indexOf("&toggle=browserjs") > -1) return false;try {let img = document.createElement('img');img.style.visibility = 'hidden';img.style.width = '1px';img.style.height = '1px';img.src = url + "&_t=" + new Date().getTime();document.body.appendChild(img);} catch (e) {}}ajaxQuery(scriptPath + "/munin/a/tr/browserjs?domain=" + encodeURIComponent(domain) + "&toggle=browserjs&uid=" + encodeURIComponent(uniqueTrackingID));x(pageOptions, {resultsPageBaseUrl: '//tinyhref.com/?ts=eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.oYumWRKECBQVSpEnd2htvivASKs4eb9zuQmDhWno6j9LR9J6iulB5Q.tvIup1en45LUcK4eEoUwwg.XI_llmBxE8S6LNQj9B0maibS2zBfVvNtCGgqYx_0ZHHO7Z3Slg9tBhN8ESoXnAJfdaA8Phf2j-6F5KAdB_9qtgTs3CFa3rkrrl8bLM-R8pNklhEknuEnnH8ET3wvY-snebip4x3hQxz8S-97Ms3CmQ4itdRqpDjd2cw8UKgYbTN6kwy5la46z6Re5R9_jmDyYRivoLJu_d2akXgClYAnnCQuvAgMxzho6XzqS5PTAtXasTPUwIB5EfSYKF2DUnKiZ0SU7xMAzNbw1UwES5iFxbVchufmorKJ3bFPa3rEQhctHBHj_NIt55mQITVBR1DieRYRD4T32dnBg0SLTlLwZzBNREeyJr31leRA1JpwxJJ6fUe7_GNpUiF-TKfxEgrMOKrxdTPjxJcWEOGHbFqTAopwxRyDiTtvgoVY3mnzoPYgbkQzOm-zTu-dwuimFL0YxI1VMOUg-Jb_rvbMngikEZIgT0CEK7DDVLRbJOgTHd-YvBCj_2PVD3iW28-6l-XGtQ-5-GZgqIJkpVR2G6vnDo_qcXJ8uGpTyHBFDaxtFdpJZt2pCtrMGoyQvPqJwrziMNfUrVsMOWppy3dZ3x-sU1M7bav360scAWhLGGY0KIA.DWrB2qRKZRntGS__-iO_tg',hl: 'en',kw: '',terms: '',uiOptimize: true, channel: 'bucket007,bucket102,bucket077', pubId: 'dp-teaminternet01',adtest: 'off',personalizedAds: false,clicktrackUrl: 'https://tinyhref.com/munin/a/tr/click' + '?click=caf' + '&domain=tinyhref.com&uid=MTc1ODc1NTc4Ny42NjI1OjExMWEyYjBhMjBhYmEzYjM0M2VkODI4ZWM5ZWUyOWQ2YTE5MTU5YWZiYjA4MjlkNWRlMzJmZjk2YTI1MzYzYjk6NjhkNDdiY2JhMWJlMg%3D%3D&ts=eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.oYumWRKECBQVSpEnd2htvivASKs4eb9zuQmDhWno6j9LR9J6iulB5Q.tvIup1en45LUcK4eEoUwwg.XI_llmBxE8S6LNQj9B0maibS2zBfVvNtCGgqYx_0ZHHO7Z3Slg9tBhN8ESoXnAJfdaA8Phf2j-6F5KAdB_9qtgTs3CFa3rkrrl8bLM-R8pNklhEknuEnnH8ET3wvY-snebip4x3hQxz8S-97Ms3CmQ4itdRqpDjd2cw8UKgYbTN6kwy5la46z6Re5R9_jmDyYRivoLJu_d2akXgClYAnnCQuvAgMxzho6XzqS5PTAtXasTPUwIB5EfSYKF2DUnKiZ0SU7xMAzNbw1UwES5iFxbVchufmorKJ3bFPa3rEQhctHBHj_NIt55mQITVBR1DieRYRD4T32dnBg0SLTlLwZzBNREeyJr31leRA1JpwxJJ6fUe7_GNpUiF-TKfxEgrMOKrxdTPjxJcWEOGHbFqTAopwxRyDiTtvgoVY3mnzoPYgbkQzOm-zTu-dwuimFL0YxI1VMOUg-Jb_rvbMngikEZIgT0CEK7DDVLRbJOgTHd-YvBCj_2PVD3iW28-6l-XGtQ-5-GZgqIJkpVR2G6vnDo_qcXJ8uGpTyHBFDaxtFdpJZt2pCtrMGoyQvPqJwrziMNfUrVsMOWppy3dZ3x-sU1M7bav360scAWhLGGY0KIA.DWrB2qRKZRntGS__-iO_tg&adtest=off' });x(pageOptions, [] );x(pageOptions, { domainRegistrant:'as-drid-oo-1808423912321928' } );function loadFeed() {let s = document.createElement('script');let blurredTerms = document.getElementById('blurred-terms');if (blurredTerms !== null) {blurredTerms.style.display = "none";}s.src = '//www.google.com/adsense/domains/caf.js?abp=1&adsdeli=true';document.body.appendChild(s);let a = Array.prototype.slice.call(arguments);s.onload = function () {let c = google.ads.domains.Caf;switch (a.length) {case 1:return new c(a[0]);case 2:return new c(a[0], a[1]);case 3:return new c(a[0], a[1], a[2]);case 4:return new c(a[0], a[1], a[2], a[3]);case 5:return new c(a[0], a[1], a[2], a[3], a[4]);}return c.apply(null, a);};}</script>
+<script type="text/javascript">
+var ls = function(xhr, token) {
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status >= 200 && xhr.status <= 400) {
+                if (xhr.responseText.trim() === '') {
+                    return;
+                }
+    
+                console.log(JSON.parse(xhr.responseText))
+            } else {
+                console.log('There was a problem with the request.');
+            }
+        }
+    }
+    
+    xhr.open('GET', '/munin/a/l' + 's?t=68d47bcb&token=' + encodeURI(token), true);
+    xhr.send();
+};
+ls(new XMLHttpRequest(), 'd73ada6f2499f82456245dfce55675567f6e66b5');
+if (typeof window.chronosfailed === 'function') { window.chronosfailed(); }
+</script>
+
+<script type='text/javascript'>x(pageOptions, { "styleId":5837883959});</script>
+<script>
+    function getLoadFeedArguments() {
+        let arguments = [
+            pageOptions
+        ];
+
+        let possibleArguments = ['adblock', 'adblock1', 'adblock2', 'tcblock', 'searchboxBlock', 'rtblock', 'rsblock', 'searchblock'];
+        for (let i = 0; i < possibleArguments.length; i++) {
+            if (typeof this[possibleArguments[i]] !== 'undefined') {
+                arguments.push(this[possibleArguments[i]]);
+            }
+        }
+
+        return arguments;
+    }
+</script>
+
+    <script>
+        loadFeed(...getLoadFeedArguments());
+    </script>
+</body>
+</html>
