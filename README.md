@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.67878-1762097593700/chatgpt-atlas-logo.png" alt="ChatGPT Atlas"/> <a target="_blank" href="https://tinyhref.com/chatgpt-atlas">ChatGPT Atlas</a> - The browser with ChatGPT built in.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.94142-1762081330394/zed-logo.webp" alt="Zed"/> <a target="_blank" href="https://tinyhref.com/zed">Zed</a> - The editor for what&#x27;s next.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hn@1.1.94766-1762080797082/cursor-logo.png" alt="Cursor"/> <a target="_blank" href="https://tinyhref.com/cursor">Cursor</a> - The best way to code with AI.</div>
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.84219-1759047383343/gsap-logo.png" alt="GSAP"/> <a target="_blank" href="https://tinyhref.com/gsap">GSAP</a> - A wildly robust JavaScript animation library built for professionals.</div>
