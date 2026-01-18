@@ -15,7 +15,7 @@
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.84219-1759047383343/gsap-logo.png" alt="GSAP"/> <a target="_blank" href="https://tinyhref.com/gsap">GSAP</a> - A wildly robust JavaScript animation library built for professionals.</div>
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
 <div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
-<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.79411-1768712899511/logo-snapedit.jpg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
 <div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://tinyhref.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
 <div><img width="16" src="https://i.imgur.com/4TyovfU.png" alt="Appwrite"/> <a target="_blank" href="https://tinyhref.com/appwrite">Appwrite</a> - Build like a team of hundreds.</div>
 <div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://tinyhref.com/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
